@@ -1,0 +1,10 @@
+#define RED_LED   LED0  
+#define GREEN_LED LED1  
+
+#define BROADCAST_MAC  "000000000000FFFF"
+#define MY_MAC         "0013A20041C6E118"
+
+#define MAX_LENGTH        110
+#define RECEIVER_TIMEOUT  500UL
+
+#define _DEBUG_COMM_
